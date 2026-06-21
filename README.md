@@ -1,2 +1,14 @@
 # qiutanhub-journal
-HTML page archive and documentation
+
+静态页面发布集合
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
